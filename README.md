@@ -104,4 +104,4 @@ MIT License — Feel free to fork and enhance!
 
 ---
 
-> Built with ❤️ by Akash Giri
+> Built with ❤️ by Akash Giri  
